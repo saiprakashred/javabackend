@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Prakash Reddy",
+    "age": 25,
+    "email": "prakash@gmail.com",
+    "address": {
+      "street": "8805 Mang",
+      "city": "Indian Land",
+      "state": "SC",
+      "zipcode": "29707"
+    }
+  },
+  {
+    "name": "Sharath Reddy",
+    "age": 25,
+    "email": "sharathreddy@gmail.com",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipcode": "60505"
+    }
+  },
+  {
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10001"
+    }
+  },
+  {
+    "name": "Jane Smith",
+    "age": 28,
+    "email": "jane.smith@example.com",
+    "address": {
+      "street": "789 Broadway",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001"
+    }
+  },
+  {
+    "name": "Amit Patel",
+    "age": 35,
+    "email": "amit.patel@example.com",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Dallas",
+      "state": "TX",
+      "zipcode": "75201"
+    }
+  },
+  {
+    "name": "Sara Lee",
+    "age": 32,
+    "email": "sara.lee@example.com",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Austin",
+      "state": "TX",
+      "zipcode": "73301"
+    }
+  },
+  {
+    "name": "Michael Johnson",
+    "age": 29,
+    "email": "michael.j@example.com",
+    "address": {
+      "street": "321 Maple Dr",
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80202"
+    }
+  },
+  {
+    "name": "Emily Davis",
+    "age": 26,
+    "email": "emily.d@example.com",
+    "address": {
+      "street": "654 Birch Rd",
+      "city": "San Diego",
+      "state": "CA",
+      "zipcode": "92101"
+    }
+  },
+  {
+    "name": "Ravi Kumar",
+    "age": 31,
+    "email": "ravi.kumar@example.com",
+    "address": {
+      "street": "987 Palm Blvd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipcode": "85001"
+    }
+  },
+  {
+    "name": "Anita Sharma",
+    "age": 27,
+    "email": "anita.sharma@example.com",
+    "address": {
+      "street": "135 Sunset Blvd",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    }
+  },
+  {
+    "name": "Tom Brown",
+    "age": 34,
+    "email": "tom.brown@example.com",
+    "address": {
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "zipcode": "62704"
+    }
+  },
+  {
+    "name": "Lisa White",
+    "age": 24,
+    "email": "lisa.white@example.com",
+    "address": {
+      "street": "101 Ocean Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zipcode": "33101"
+    }
+  },
+  {
+    "name": "David Wilson",
+    "age": 36,
+    "email": "david.w@example.com",
+    "address": {
+      "street": "204 Sun Ave",
+      "city": "Orlando",
+      "state": "FL",
+      "zipcode": "32801"
+    }
+  },
+  {
+    "name": "Priya Singh",
+    "age": 29,
+    "email": "priya.singh@example.com",
+    "address": {
+      "street": "111 Lotus St",
+      "city": "San Jose",
+      "state": "CA",
+      "zipcode": "95101"
+    }
+  },
+  {
+    "name": "Chris Evans",
+    "age": 38,
+    "email": "chris.evans@example.com",
+    "address": {
+      "street": "200 Marvel Blvd",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipcode": "30301"
+    }
+  },
+  {
+    "name": "Olivia Taylor",
+    "age": 27,
+    "email": "olivia.t@example.com",
+    "address": {
+      "street": "300 Peach St",
+      "city": "Savannah",
+      "state": "GA",
+      "zipcode": "31401"
+    }
+  },
+  {
+    "name": "Arjun Mehta",
+    "age": 33,
+    "email": "arjun.mehta@example.com",
+    "address": {
+      "street": "201 Tech Park",
+      "city": "Charlotte",
+      "state": "NC",
+      "zipcode": "28202"
+    }
+  },
+  {
+    "name": "Kiran Rao",
+    "age": 30,
+    "email": "kiran.rao@example.com",
+    "address": {
+      "street": "789 Westside Blvd",
+      "city": "Columbus",
+      "state": "OH",
+      "zipcode": "43085"
+    }
+  },
+  {
+    "name": "Sophia Brown",
+    "age": 22,
+    "email": "sophia.b@example.com",
+    "address": {
+      "street": "302 Spring Rd",
+      "city": "Raleigh",
+      "state": "NC",
+      "zipcode": "27601"
+    }
+  },
+  {
+    "name": "Liam Green",
+    "age": 26,
+    "email": "liam.g@example.com",
+    "address": {
+      "street": "405 Lakeview Ln",
+      "city": "Tampa",
+      "state": "FL",
+      "zipcode": "33601"
+    }
+  }
+]
