@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://3.131.160.11")
 public class UserController {
 
     @GetMapping("/api/users")
