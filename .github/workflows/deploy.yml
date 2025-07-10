@@ -17,4 +17,7 @@ jobs:
           username: ${{ secrets.EC2_USER }}
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
+            chmod +x ~/deploy_backend.sh
             ~/deploy_backend.sh
+
+
